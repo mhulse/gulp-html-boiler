@@ -1,0 +1,10 @@
+{
+  "name": "gulp",
+  "version": "0.0.0",
+  "devDependencies": {
+    "normalize.css": "^3.0.3"
+  },
+  "scripts": {
+    "gulp": "gulp"
+  }
+}
